@@ -35,7 +35,7 @@
         android:id="@+id/textView"
         android:layout_width="125dp"
         android:layout_height="48dp"
-        android:text="TextView"
+        android:text="@string/TEST123"
         tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="107dp" />
 
