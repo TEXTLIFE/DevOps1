@@ -4,4 +4,5 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="TEST123">TESTING VIEW</string>
+    <string name="BUTTON123">TESTING BUTTON</string>
 </resources>
